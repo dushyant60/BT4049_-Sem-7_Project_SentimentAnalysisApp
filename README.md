@@ -2,8 +2,6 @@
 
 This project demonstrates a simple Sentiment Analysis web application built using Flask and NLTK's VADER.
 
-![Demo](demo.gif) <!-- You can replace demo.gif with a screenshot or gif of your web app -->
-
 ## Table of Contents
 
 - [Features](#features)
@@ -30,8 +28,8 @@ Ensure you have the following installed before running the app:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/SentimentAnalysisWebApp.git
-    cd SentimentAnalysisWebApp
+    git clone https://github.com/dushyant60/BT4049_-Sem-7_Project_SentimentAnalysisApp.git
+    cd BT4049_-Sem-7_Project_SentimentAnalysisApp
     ```
 
 2. Set up a virtual environment (optional but recommended):
@@ -48,7 +46,7 @@ Ensure you have the following installed before running the app:
 3. Install dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install nltk flask
     ```
 
 ## Usage
